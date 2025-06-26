@@ -30,4 +30,7 @@ The focus is on mastering the fundamentals of embedded C, STM32 microcontroller 
 - Configuring GPIO pins using CRL/CRH registers
 - Enabling peripheral clocks via RCC
 - The role of startup code and linker scripts (briefly)
+- Using pointers in Embedded C to manipulate specific hardware addresses
+- Bitwise operations for setting, clearing, and toggling register bits
+- Basics of system memory layout: flash, SRAM, peripheral space
 
